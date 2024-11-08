@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on future projects on Software development
 - 📫 You can reach me on Linkedin by - https://www.linkedin.com/in/aashcharya-gorakh-a764a2287/
-- 😄 Pronouns: he/him
 - Always happy to collaborate and enthusiastic to learn.
 - Some of my profiles: Leetcode - https://leetcode.com/u/aashcharya/
                        Codeforces - https://codeforces.com/profile/aashcharyagorakh

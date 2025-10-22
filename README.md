@@ -4,7 +4,7 @@ I'm a B.Tech Computer Science student at **IIT Jodhpur** with a strong passion f
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aashcharya-gorakh-a764a2287/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn Profile" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/aashcharyagorakh" target="_blank">

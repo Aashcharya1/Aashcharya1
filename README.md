@@ -32,7 +32,7 @@ I am a passionate problem-solver and have solved over **800+ DSA problems** acro
 | Platform | Rating/Rank | Achievement |
 | :--- | :--- | :--- |
 | **LeetCode** | **Knight (Max 1964)** | Global Top 3% |
-| **Codeforces** | **Specialist (Max 1546)** | - |
+| **Codeforces** | **Expert (Max 1634)** | - |
 | **Meta Hackercup 2025** | **Global Rank 811** | Round 1 Qualifier |
 | **LeetCode Weekly 466** | **Global Rank 49** | Top 0.15% (of 35k+) |
 | **Codeforces Round 1042** | **Global Rank 469** | Top 1.2% (of 41k+) |
